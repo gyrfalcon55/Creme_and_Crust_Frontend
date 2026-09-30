@@ -7,20 +7,18 @@ CSS.
 
 ## 📸 Screenshots
 
-Place your three website screenshots inside the `screenshots` folder and
-update the filenames below if needed.
 
 ### Home
+<img width="1472" height="742" alt="Screenshot 2026-09-30 195752" src="https://github.com/user-attachments/assets/eeec7290-c77e-4187-8e6d-d3e6bb6cafc0" />
 
-![Home Page](./screenshots/home.png)
 
 ### Menu
+<img width="1358" height="722" alt="Screenshot 2026-09-30 195802" src="https://github.com/user-attachments/assets/ae56c019-f163-44be-ad16-cb736f8af04d" />
 
-![Menu Page](./screenshots/menu.png)
 
-### Contact / Other Section
+### Other Section
+<img width="1212" height="507" alt="Screenshot 2026-09-30 195833" src="https://github.com/user-attachments/assets/1d0dd26c-9ee2-422c-abfa-9330022b35c3" />
 
-![Website Screenshot](./screenshots/contact.png)
 
 ------------------------------------------------------------------------
 
